@@ -85,6 +85,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.4"
+  equatable:
+    dependency: "direct main"
+    description:
+      name: equatable
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.3"
   fake_async:
     dependency: transitive
     description:
@@ -128,6 +135,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  google_ml_vision:
+    dependency: "direct main"
+    description:
+      name: google_ml_vision
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.0.7"
   js:
     dependency: transitive
     description:
